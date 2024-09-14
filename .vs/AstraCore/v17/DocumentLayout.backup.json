@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arda\\source\\repos\\AstraCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA01E6D1-E6AB-4D3A-A55F-EAF119E7DD70}|Sandbox\\Sandbox.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA01E6D1-E6AB-4D3A-A55F-EAF119E7DD70}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|solutionrelative:AstraCore\\src\\AstraCore.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|solutionrelative:AstraCore\\src\\AstraCore\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|solutionrelative:AstraCore\\src\\AstraCore\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|solutionrelative:AstraCore\\src\\AstraCore\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA5C63CE-D046-44F9-A13F-459B9EEACFFF}|AstraCore\\AstraCore.vcxproj|solutionrelative:AstraCore\\src\\AstraCore\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T20:05:53.606Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\EntryPoint.h",
+              "RelativeDocumentMoniker": "AstraCore\\src\\AstraCore\\EntryPoint.h",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\EntryPoint.h",
+              "RelativeToolTip": "AstraCore\\src\\AstraCore\\EntryPoint.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-14T08:36:09.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AstraCore.h",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore.h",
+              "RelativeDocumentMoniker": "AstraCore\\src\\AstraCore.h",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore.h",
+              "RelativeToolTip": "AstraCore\\src\\AstraCore.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T20:16:19.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.cpp",
+              "RelativeDocumentMoniker": "AstraCore\\src\\AstraCore\\Application.cpp",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.cpp",
+              "RelativeToolTip": "AstraCore\\src\\AstraCore\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-13T20:07:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.h",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.h",
+              "RelativeDocumentMoniker": "AstraCore\\src\\AstraCore\\Application.h",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Application.h",
+              "RelativeToolTip": "AstraCore\\src\\AstraCore\\Application.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T20:07:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Core.h",
+              "DocumentMoniker": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Core.h",
+              "RelativeDocumentMoniker": "AstraCore\\src\\AstraCore\\Core.h",
+              "ToolTip": "C:\\Users\\Arda\\source\\repos\\AstraCore\\AstraCore\\src\\AstraCore\\Core.h",
+              "RelativeToolTip": "AstraCore\\src\\AstraCore\\Core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T20:06:47.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
